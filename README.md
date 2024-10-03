@@ -19,10 +19,3 @@ This project is a collaborative text editor that allows multiple users to work o
 - **Database**: SQLite (can be configured to MySQL/PostgreSQL)
 - **Real-time communication**: WebSockets, Redis (for caching and message layer)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/insanelynumb/Real-Time-Collaborative-Editor.git
-   cd Real-Time-Collaborative-Editor
